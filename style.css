@@ -26,6 +26,7 @@ body {
     color: var(--blue);
     background-color: var(--gray);
     padding: var(--paddingX);
+    min-height: 100%;
 }
 
 a {
