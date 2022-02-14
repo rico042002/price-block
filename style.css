@@ -26,7 +26,6 @@ body {
     color: var(--blue);
     background-color: var(--gray);
     padding: var(--paddingX);
-    min-height: 100%;
 }
 
 a {
@@ -53,6 +52,7 @@ p {
 }
 
 .price {
+    padding-top: 3rem;
     border-radius: 0.5rem;
     overflow: hidden;
     max-width: 40rem;
